@@ -1,39 +1,33 @@
 {
     "musicData": [{
-      "title": "我要你",
-      "artist": "老狼",
-      "src": "http://up.mcyt.net/down/43422.mp3",
-      "pic": "http://omratag7g.bkt.clouddn.com/%E6%88%91%E8%A6%81%E4%BD%A0.jpg",
-      "lrc": "lrc/我要你.lrc"
+      "title": "打上花火",
+      "artist": "米津玄師&daoko",
+      "src": "http://www.ytmp3.cn/down/50434.mp3",
+      "pic": "https://baike.baidu.com/pic/打上花火/22076939/0/c2fdfc039245d688b2c7d94eaec27d1ed31b2416?fr=lemma&ct=single#aid=0&pic=c2fdfc039245d688b2c7d94eaec27d1ed31b2416",
+      "lrc": ""
     }, {
-      "title": "成都",
-      "artist": "赵雷",
-      "src": "http://up.mcyt.net/down/40586.mp3",
-      "pic": "http://p4.music.126.net/34YW1QtKxJ_3YnX9ZzKhzw==/2946691234868155.jpg",
-      "lrc": "lrc/成都-赵雷.lrc"
+      "title": "Daisy-(动漫《境界的彼方》ED)",
+      "artist": "STEREO DIVE FOUNDATION",
+      "src": "http://www.ytmp3.cn/down/49572.mp3",
+      "pic": "https://baike.baidu.com/pic/Daisy/12768017/0/58ee3d6d55fbb2fbb2ea2e724d4a20a44723dc89?fr=lemma&ct=single#aid=0&pic=58ee3d6d55fbb2fbb2ea2e724d4a20a44723dc89",
+      "lrc": ""
     }, {
-      "title": "就是爱你",
-      "artist": "陶喆",
-      "src": "http://up.mcyt.net/md5/53/MTAzMTM1_Qq4329912.mp3",
-      "pic": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=1407964657,2382644691&fm=58",
-      "lrc": "lrc/就是爱你.lrc"
+      "title": "世界が终るまでは",
+      "artist": "WANDS",
+      "src": "http://www.ytmp3.cn/down/48949.mp3",
+      "pic": "https://baike.baidu.com/pic/直到世界终结/3639832/0/37d3d539b6003af3c76fb8653b2ac65c1138b6da?fr=lemma&ct=single#aid=0&pic=37d3d539b6003af3c76fb8653b2ac65c1138b6da",
+      "lrc": ""
     }, {
-      "title": "假如爱有天意",
-      "artist": "李健",
-      "src": "http://vip.baidu190.com/uploads/2017/2016065bafeb879b4aba87b7a99e280ada503d.mp3",
-      "pic": "http://omratag7g.bkt.clouddn.com/%E6%9D%8E%E5%81%A5.jpg",
-      "lrc": "lrc/假如爱有天意.lrc"
+      "title": "secret base",
+      "artist": "茅野愛衣 / 戸松遥 / 早見沙織",
+      "src": "http://www.ytmp3.cn/down/44530.mp3",
+      "pic": "https://baike.baidu.com/pic/secret baseー君がくれたものー/2397087/0/9345d688d43f8794d37b3623dc1b0ef41bd53a32?fr=lemma&ct=single#aid=0&pic=9345d688d43f8794d37b3623dc1b0ef41bd53a32",
+      "lrc": ""
     }, {
-      "title": "十年",
-      "artist": "陈奕迅",
-      "src": "http://www.0dutv.com/plug/down/up2.php/4830342.mp3",
-      "pic": "https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=3825361386,3954933951&fm=58",
-      "lrc": "lrc/十年.lrc"
-    }, {
-      "title": "刚好遇见你",
-      "artist": "李玉刚",
-      "src": "http://up.mcyt.net/md5/53/OTk1MDE2NA_Qq4329912.mp3",
-      "pic": "http://p4.music.126.net/lDyytkTaPYVTb1Vpide6AA==/18591642115187138.jpg",
-      "lrc": "lrc/刚好遇见你-李玉刚.lrc"
+      "title": "アイのシナリオ(动漫《魔术快斗1412》OP",
+      "artist": "CHiCO with HoneyWorks",
+      "src": "http://www.ytmp3.cn/down/59761.mp3",
+      "pic": "",
+      "lrc": ""
     }]
   }
